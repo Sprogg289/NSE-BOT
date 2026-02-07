@@ -1,0 +1,17 @@
+{
+  "name": "northstar-bot",
+  "version": "1.0.0",
+  "description": "NorthStar VTC Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "discord-html-transcripts": "^3.1.4",
+    "dotenv": "^16.4.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
